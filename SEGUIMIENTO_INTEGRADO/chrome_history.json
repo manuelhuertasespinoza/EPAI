@@ -1,0 +1,24 @@
+{
+    "userID": 1,
+    "associatedPLE": 1234,
+    "trackedDataList": [
+        {
+            "trackedDataID": 24717,
+            "activityType": "Other",
+            "associatedURL": "https://loayzavirtual.edu.pe/mod/quiz/summary.php?attempt=453855&cmid=266843",
+            "associatedDomains": [
+                "General Knowledge"
+            ],
+            "associatedKeywords": [
+                "moodle",
+                "INSTITUTO SUPERIOR ARZOBISPO LOAYZA: Entrar al sitio"
+            ],
+            "startTime": "2025-03-12T02:42:00.389401Z",
+            "endTime": "2025-03-12T02:42:07.079130Z",
+            "feedback": {
+                "score": null,
+                "comments": null
+            }
+        }
+    ]
+}
